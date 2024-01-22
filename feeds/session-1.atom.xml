@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Blog's Jupyter Python - session 1</title><link href="https://mymentorbootcamp.github.io/" rel="alternate"></link><link href="https://mymentorbootcamp.github.io/feeds/session-1.atom.xml" rel="self"></link><id>https://mymentorbootcamp.github.io/</id><updated>2024-01-15T08:00:00+07:00</updated><entry><title>03_Lists, Tuples, and Sets</title><link href="https://mymentorbootcamp.github.io/03_Lists,%20Tuples,%20and%20Sets-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/03_Lists, Tuples, and Sets-post.html</id><summary type="html">&lt;p&gt;03_Lists, Tuples, and Sets ...&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Blog's Jupyter Python - session 1</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/" rel="alternate"></link><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/feeds/session-1.atom.xml" rel="self"></link><id>https://mymentorbootcamp.github.io/myblogsjupyterpython/</id><updated>2024-01-15T08:00:00+07:00</updated><entry><title>03_Lists, Tuples, and Sets</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/03_Lists,%20Tuples,%20and%20Sets-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/03_Lists, Tuples, and Sets-post.html</id><summary type="html">&lt;p&gt;03_Lists, Tuples, and Sets ...&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -1751,7 +1751,7 @@ Perlu diingat bahwa List menggunakan tanda kurung siku [ ], Tuple menggunakan ta
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>04_dictionaries</title><link href="https://mymentorbootcamp.github.io/04_dictionaries-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/04_dictionaries-post.html</id><summary type="html">&lt;p&gt;04_dictionaries....&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>04_dictionaries</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/04_dictionaries-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/04_dictionaries-post.html</id><summary type="html">&lt;p&gt;04_dictionaries....&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -3078,7 +3078,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>05_Conditionals and Booleans</title><link href="https://mymentorbootcamp.github.io/05_Conditionals%20and%20Booleans-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/05_Conditionals and Booleans-post.html</id><summary type="html">&lt;p&gt;05_Conditionals and Booleans ...&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>05_Conditionals and Booleans</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/05_Conditionals%20and%20Booleans-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/05_Conditionals and Booleans-post.html</id><summary type="html">&lt;p&gt;05_Conditionals and Booleans ...&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -4494,7 +4494,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Differences Python2 Python3</title><link href="https://mymentorbootcamp.github.io/Differences_Python2_Python3-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/Differences_Python2_Python3-post.html</id><summary type="html">&lt;p&gt;Python 2 dan Python 3 adalah dua versi utama dari bahasa pemrograman Python, dan keduanya memiliki beberapa perbedaan signifikan&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Differences Python2 Python3</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/Differences_Python2_Python3-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/Differences_Python2_Python3-post.html</id><summary type="html">&lt;p&gt;Python 2 dan Python 3 adalah dua versi utama dari bahasa pemrograman Python, dan keduanya memiliki beberapa perbedaan signifikan&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -5955,7 +5955,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Import Modules and Exploring The Standard Library</title><link href="https://mymentorbootcamp.github.io/Import%20Modules%20and%20Exploring%20The%20Standard%20Library-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/Import Modules and Exploring The Standard Library-post.html</id><summary type="html">&lt;p&gt;07_Import Modules and Exploring The Standard Library&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Import Modules and Exploring The Standard Library</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/Import%20Modules%20and%20Exploring%20The%20Standard%20Library-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/Import Modules and Exploring The Standard Library-post.html</id><summary type="html">&lt;p&gt;07_Import Modules and Exploring The Standard Library&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -7213,7 +7213,7 @@ Python juga memiliki sejumlah modul bawaan yang disebut sebagai "Standard Librar
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Integers and Floats - Working with Numeric Data</title><link href="https://mymentorbootcamp.github.io/Integers_and_Floats_Working_with_Numeric_Data-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/Integers_and_Floats_Working_with_Numeric_Data-post.html</id><summary type="html">&lt;p&gt;Integers adalah tipe data yang merepresentasikan bilangan bulat, tanpa fraksi atau desimal...Floats (floating-point numbers) adalah tipe data yang digunakan untuk merepresentasikan bilangan dengan desimal atau fraksi....&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Integers and Floats - Working with Numeric Data</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/Integers_and_Floats_Working_with_Numeric_Data-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/Integers_and_Floats_Working_with_Numeric_Data-post.html</id><summary type="html">&lt;p&gt;Integers adalah tipe data yang merepresentasikan bilangan bulat, tanpa fraksi atau desimal...Floats (floating-point numbers) adalah tipe data yang digunakan untuk merepresentasikan bilangan dengan desimal atau fraksi....&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -8476,7 +8476,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Loops and Iterations</title><link href="https://mymentorbootcamp.github.io/Loops%20and%20Iterations-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/Loops and Iterations-post.html</id><summary type="html">&lt;p&gt;06_Loops and Iterations&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Loops and Iterations</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/Loops%20and%20Iterations-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/Loops and Iterations-post.html</id><summary type="html">&lt;p&gt;06_Loops and Iterations&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -9900,7 +9900,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Strings - Working with Textual Data Post</title><link href="https://mymentorbootcamp.github.io/String-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/String-post.html</id><summary type="html">&lt;p&gt;strings is objects that contain sequences of character data. Processing character data is integral to programming. It is a rare application that doesn't need to manipulate strings at least to some extent..&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="session 1"></category><category term="python"></category></entry><entry><title>Strings - Working with Textual Data Post</title><link href="https://mymentorbootcamp.github.io/myblogsjupyterpython/String-post.html" rel="alternate"></link><published>2024-01-15T08:00:00+07:00</published><updated>2024-01-15T08:00:00+07:00</updated><author><name>me</name></author><id>tag:mymentorbootcamp.github.io,2024-01-15:/myblogsjupyterpython/String-post.html</id><summary type="html">&lt;p&gt;strings is objects that contain sequences of character data. Processing character data is integral to programming. It is a rare application that doesn't need to manipulate strings at least to some extent..&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
